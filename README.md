@@ -7,6 +7,8 @@ description: >-
 
 # HOPE—Hub Operations & Expansion
 
+Short introduction on the purpose of this documentation and how it started. Why, How and What.
+
 ![](.gitbook/assets/hope-logo-4x.png)
 
 ## Preface

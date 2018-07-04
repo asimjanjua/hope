@@ -2,13 +2,13 @@
 
 * [HOPE—Hub Operations & Expansion](README.md)
 
-## OKRs
+## Preface
 
-* [Objectives & Key Results](okrs/objectives-and-key-results.md)
+* [Exposition](okrs/objectives-and-key-results.md)
 * [Untitled](okrs/untitled.md)
 
-## Exposition
+## OKRs
 
-* [Introduction](exposition/introduction.md)
+* [Objectives & Key Results](exposition/introduction.md)
 * [Untitled](exposition/untitled.md)
 

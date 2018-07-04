@@ -2,7 +2,7 @@
 description: Introduction
 ---
 
-# Objectives & Key Results
+# Exposition
 
 Becoming a super hero is a fairly straight forward process:
 
