@@ -1,2 +1,0 @@
-# Objectives & Key Results
-

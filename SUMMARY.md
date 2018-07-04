@@ -1,15 +1,14 @@
 # Table of contents
 
-* [HOPE—Hub Operations & Expansion](README.md)
+* [The Little Book of Hope](README.md)
 
 ## Preface
 
-* [Exposition](okrs/objectives-and-key-results.md)
-* [Untitled](okrs/untitled.md)
+* [Objectives & Key Results](okrs/objectives-and-key-results.md)
+* [Untitled](preface/untitled.md)
 
 ## OKRs
 
-* [Objectives & Key Results](exposition/introduction.md)
-* [Untitled](exposition/untitled.md)
+* [Objectives & Key Results](okrs/objectives-and-key-results.md)
+* [Untitled](okrs/untitled.md)
 
-## References
