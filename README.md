@@ -4,7 +4,7 @@ description: 'HOPE—Hub Operations & Expansion, unraveling complexity.'
 
 # The Little Book of Hope
 
-![](.gitbook/assets/hope-logo-4x.png)
+![](.gitbook/assets/herobanner.png)
 
 ## Preface
 
