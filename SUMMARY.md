@@ -4,11 +4,13 @@
 
 ## Preface
 
-## OKRs
-
-* [Objectives & Key Results](okrs/objectives-and-key-results.md)
+## Guiding Principals
 
 ## Common Ground
 
 ## Leadership
+
+## OKRs
+
+* [Objectives & Key Results](okrs/objectives-and-key-results.md)
 
