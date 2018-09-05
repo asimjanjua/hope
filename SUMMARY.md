@@ -4,11 +4,16 @@
 
 ## Preface
 
-* [Objectives & Key Results](okrs/objectives-and-key-results.md)
-* [Untitled](preface/untitled.md)
+* [Untitled](untitled.md)
 
 ## OKRs
 
-* [Objectives & Key Results](okrs/objectives-and-key-results.md)
 * [Untitled](okrs/untitled.md)
+* [Objectives & Key Results](okrs/objectives-and-key-results.md)
+
+## Common Ground
+
+## Leadership
+
+* [Untitled](leadership/untitled.md)
 
