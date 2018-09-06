@@ -3,6 +3,7 @@
 * [The Little Book of HOPE](README.md)
 
 ## Preface
+* [Objectives & Key Results](okrs/preface-new.md)
 
 ## OKRs
 
