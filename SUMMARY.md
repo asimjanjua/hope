@@ -4,7 +4,7 @@
 
 ## Content
 
-* [Home](README.md)
+* [The Little Book of HOPE](README.md)
 
 ## Preface & Introduction
 
