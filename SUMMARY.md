@@ -2,6 +2,10 @@
 
 * [The Little Book of HOPE](README.md)
 
+## Content
+
+* [Home](README.md)
+
 ## Preface & Introduction
 
 * [Preface](introduction/preface.md)
