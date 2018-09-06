@@ -11,5 +11,3 @@
 ## Common Ground
 
 ## Leadership
-
-## New Group
