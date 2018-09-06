@@ -4,17 +4,18 @@
 
 ## HOPE
 
-* [The Little Book of HOPE](README.md)
+* [The Little Book of HOPE](hope/readme.md)
 
 ## Preface & Introduction
 
-* [Preface](introduction/preface.md)
-* [Common Ground](introduction/common-ground.md)
+* [Preface](preface-and-introduction/preface.md)
+* [Common Ground](preface-and-introduction/common-ground.md)
 
 ## Leadership
 
-* [Leadership](leadership/introduction.md)
+* [Leadership](leadership/leadership.md)
 
 ## OKRs
 
 * [Objectives & Key Results](okrs/objectives-and-key-results.md)
+

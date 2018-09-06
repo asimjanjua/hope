@@ -1,9 +1,3 @@
----
-description: >-
-  HOPE—Hub Operations & Expansion, unraveling complexity. HOPE was establish as
-  a support function ...
----
-
 # The Little Book of HOPE
 
   
