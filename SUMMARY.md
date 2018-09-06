@@ -2,7 +2,7 @@
 
 * [The Little Book of HOPE](README.md)
 
-## Content
+## HOPE
 
 * [The Little Book of HOPE](README.md)
 
